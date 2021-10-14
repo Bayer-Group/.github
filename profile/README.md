@@ -1,5 +1,5 @@
 ## Welcome to Bayer Open Source
-![Bayer_logo_with_creative_ink.jpg](Bayer_logo_with_creative_ink.jpg)
+![Bayer_Vision.png](Bayer_Vision.png)
 
 
 Here at Bayer we strife for a better life by following our motto of "Health for all, hunger for none". We recognize the importance of collaboration in achieving this mission and want to further strengthen our digital capabilities by providing this organization. 
