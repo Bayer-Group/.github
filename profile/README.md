@@ -1,5 +1,5 @@
 # Welcome to Bayer!
-![Be_Bayer](Facebook_1200x630_Be-You-Be-Bayer_02.jpg)
+![Be_Bayer](https://github.com/Bayer-Group/.github/blob/main/profile/Facebook_1200x630_Be-You-Be-Bayer_02.jpg)
 
 Here at [Bayer](https://www.bayer.com/) we strife for a better life by working towards our motto of "Health for all, hunger for none". We recognize the importance of collaboration and digitilization in achieving this mission and want take part in the community. 
 Under the principles of [FAIR code](https://www.go-fair.org/fair-principles/), we have decided to contribute to the open source code community.
