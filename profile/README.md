@@ -8,7 +8,7 @@ Under the principles of [FAIR code](https://www.go-fair.org/fair-principles/), w
 
 Welcome! If you're looking to submit a project for open source, please visit our [submission documentation](https://go.bayer.com/opensource).
 
-If you're a reviewer, go look at our [reviewer process documentation](https://go.bayer.com/opensourcereview)
+If you're a reviewer, go look at our [reviewer process documentation](https://go.bayer.com/opensourcereview).
 
 ## Selection of Open Source Projects
 
