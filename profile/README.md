@@ -1,16 +1,19 @@
-## Welcome to Bayer Open Source
-![Bayer_Vision.png](Bayer_Vision.png)
+# Welcome to Bayer!
+![Be_Bayer](Facebook_1200x630_Be-You-Be-Bayer_02.jpg)
 
+Here at [Bayer](https://www.bayer.com/) we strife for a better life by working towards our motto of "Health for all, hunger for none". We recognize the importance of collaboration and digitilization in achieving this mission and want take part in the community. 
+Under the principles of [FAIR code](https://www.go-fair.org/fair-principles/), we have decided to contribute to the open source code community.
 
-Here at Bayer we strife for a better life by following our motto of "Health for all, hunger for none". We recognize the importance of collaboration in achieving this mission and want to further strengthen our digital capabilities by providing this organization. 
-Under FAIR code we aim to improve our software development process and using this organization as an opensource destination we try to enhance our proficiency.
+## Bayer Open Source Submissions
 
-# Bayer Open Source Submissions
+Welcome! If you're looking to submit a project for open source, please visit our [submission documentation](https://go.bayer.com/opensource).
 
-Welcome! If you're looking to submit a project for open source, please vitsit our submission documentation[](https://github.com/bayer-int/bayer-open-source-submissions)
+If you're a reviewer, go look at our [reviewer process documentation](https://go.bayer.com/opensourcereview).
 
-If you're a reviewer, go look at our [reviewer process documentation](https://github.com/bayer-int/bayer-open-source-submissions/blob/main/REVIEWERS.md)
+## Selection of Open Source Projects
 
-# COLID
+### COLID
 
-To get more information on Bayer's successful opensource projekt COlID vitit it's [website](https://bayer-group.github.io/COLID-Documentation/#/?id=introduction)
+Corporate Linked Data - short: COLID - is a technical solution for corporate environments that provides a metadata repository for corporate assets based upon semantic models.
+
+[More information](https://bayer-group.github.io/COLID-Documentation/#/)
